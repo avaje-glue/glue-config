@@ -1,0 +1,6 @@
+application:
+  one: bar
+  two: baz
+
+evalSome:
+  home: ${user.home}/after
