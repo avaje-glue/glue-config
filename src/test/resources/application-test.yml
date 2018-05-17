@@ -4,3 +4,11 @@ application:
 
 evalSome:
   home: ${user.home}/after
+
+flag:
+  active: true
+
+nums:
+  one: 1
+  two: 2
+
